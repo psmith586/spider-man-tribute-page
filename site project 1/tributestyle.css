@@ -1,0 +1,80 @@
+/*written by Phillip Smith 12/21/18*/
+
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Roboto|ZCOOL+QingKe+HuangYou');
+
+
+
+/*
+fonts:
+
+
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+    font-family: 'Indie Flower', cursive;
+*/
+	
+
+body {
+	text-align: center;
+	min-width: 200px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;	
+}
+
+#main {
+	margin: 30px auto;
+	padding: 10px;
+	border: 0px solid;
+	border-radius: 5px;
+}
+
+#title {
+	font-size: 60px;
+	font-family: 'Indie Flower', cursive;
+	
+	
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 10px auto;
+	background-color: white;
+	border: 1px solid;
+	border-radius: 25%;
+	padding: 5px;
+}
+
+#image-div {
+	margin: auto;
+	padding: auto;
+	
+}
+
+#headline {
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 30px;
+	margin-top: 50px;
+	
+}
+
+#image-caption {
+	margin: 15px;
+	padding: auto;
+}
+
+
+ul {
+	max-width: 550px;
+	margin: auto;
+	
+}
+
+li {
+	margin: 20px;
+}
